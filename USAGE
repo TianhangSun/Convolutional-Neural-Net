@@ -1,0 +1,3 @@
+We didn't change the project structure, so you can run the code as specified in the github page:
+rai -d ece408project
+However, we have one more file, kernels.cu, which includes all the kernel function and their host functions. It is included in the main file.
